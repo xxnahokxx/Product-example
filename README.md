@@ -1,3 +1,3 @@
-# Pricing-example
+# Product-example
 
-[URL](https://xxnahokxx.github.io/pricing-task/)
+[URL](https://xxnahokxx.github.io/Product-example/)
